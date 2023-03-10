@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Tilt+Warp&display=swap');
+
+body {
+    background-color: #c6a1a1;
+    background-image: url("./justice.jpg");
+    background-size: cover;
+    background-color: #4d443a;
+}
+
+.list {
+    display: -webkit-box;
+    list-style: none;
+    font-size: 25px;
+    margin-left: 120px;
+    color: #b6b8b3;
+}
+
+.button-small {
+    font-size: 20px;
+    padding: 10px 25px 10px 25px;
+    color: rgba(213, 168, 18, 0.936);
+    background-color: #3e3c3c;
+    margin-left: 495px;
+    margin-top: 16px;
+    border-color: rgba(213, 168, 18, 0.936);
+    border-radius: 10px;
+}
+
+.navbar {
+    display: -webkit-box;
+    /* margin-top: 40px; */
+
+}
+
+li:nth-child(n) {
+    width: 50%;
+}
+
+.hero-heading {
+    color: azure;
+    margin-left: 45px;
+    font-family: Tilt Warp;
+    font-size: 80px;
+    width: 40%;
+}
+
+.hero-description {
+    color: #b6b8b3;
+    margin-left: 832px;
+    width: 590px;
+    margin-top: -16%;
+    font-size: 200%;
+}
+
+img[alt="logo"] {
+    margin-left: 43px;
+}
+
+.container {
+    background-color: #4d443a;
+    height: 370px;
+    width: 101%;
+
+}
+
+/* *{
+    background-color: #4d443a;
+    height: 20px;
+    width: 20px;
+    
+} */
